@@ -19,5 +19,5 @@ class School
   def sort
     roster.sort.flatten
   end
-  
+
 end
